@@ -19,6 +19,7 @@ h6 {
   font-family: "Poppins", sans-serif;
   font-weight: 600;
   line-height: 1.2;
+  
 }
 a {
   text-decoration: none;
@@ -570,6 +571,7 @@ main {
       -moz-transition: all 0.3s linear;
       -ms-transition: all 0.3s linear;
       -o-transition: all 0.3s linear;
+/*       DDD */
     }
     .img {
       overflow: hidden;
