@@ -1,5 +1,12 @@
+## RESTORAN APPLICATION
+
 ##INTRODUCTION
 This is simple restoran app built html,css and this app allow got to different pages like home ,about servces,contact ,menu any you will see animation effect card
+
+## ⭐ Star This Repository
+
+If you like this project, please give it a star! It helps to keep me motivated and improve the project.
+
 
 ## FEATURES
 --Naviagate one page yo another page
